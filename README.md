@@ -97,7 +97,7 @@ Idiomas:     Português (nativo) · Inglês (intermediário, leitura técnica)
 <div align="center">
 
 <img src="https://github-readme-stats.vercel.app/api?username=wellxsz&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=8B5CF6&text_color=C4B5FD&ring_color=6D28D9" height="165"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=wellxsz&theme=tokyonight&hide_border=true&background=0D1117&ring=8B5CF6&fire=A78BFA&currStreakLabel=A78BFA" height="165"/>
+<img src="https://github-readme-streak-stats-eight.vercel.app/?user=wellxsz&theme=tokyonight&hide_border=true&background=0D1117&ring=8B5CF6&fire=A78BFA&currStreakLabel=A78BFA" height="165"/>
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wellxsz&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=C4B5FD&langs_count=8" height="165"/>
 
