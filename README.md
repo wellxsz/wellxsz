@@ -105,20 +105,6 @@ Idiomas:     Português (nativo) · Inglês (intermediário, leitura técnica)
 
 <br>
 
-## 🟣&nbsp; Atividade de Contribuição
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=wellxsz&theme=tokyo-night&bg_color=0D1117&color=A78BFA&line=8B5CF6&point=C4B5FD&hide_border=true" width="100%"/>
-
-<br><br>
-
-<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%"/>
-
-</div>
-
-<br>
-
 ## 🟣&nbsp; Foco Atual
 
 ```yaml
